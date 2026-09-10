@@ -1,0 +1,19 @@
+SETUP INSTRUCTIONS
+==================
+
+1. Create a new Flutter project (or use this folder directly):
+   flutter create flutter_profile_app
+
+2. Replace the generated lib/main.dart with the main.dart from this zip.
+
+3. Replace the generated pubspec.yaml with the pubspec.yaml from this zip
+   (or just make sure your pubspec.yaml has: cupertino_icons: ^1.0.6).
+
+4. Get packages:
+   flutter pub get
+
+5. Run:
+   flutter run
+
+Tap the black "+" button (bottom right) to increment the Points count shown
+next to the star icon.
